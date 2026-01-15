@@ -1,4 +1,4 @@
-module aakash-loyar/String/utils
+module aakashloyar/String/utils
 
 go 1.25.0
 
