@@ -1,4 +1,4 @@
-module aakashloyar/String/utils
+module github.com/aakashloyar/String/utils
 
 go 1.25.0
 
